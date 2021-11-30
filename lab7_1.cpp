@@ -43,10 +43,8 @@ string func4(string a){
  else{
      return "No";
  }
- 
+
 }
-
-
 
 int main(){
 
